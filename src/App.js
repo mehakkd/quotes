@@ -14,6 +14,7 @@ const App = () => {
   const quotes = [
     '"More tea, please!" - Uncle Iroh, Avatar the Last Airbender',
     '"Delight is like the butterflies flying around and landing on the flower that is joy." -Ross Gay, This American Life',
+    '“A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.” — George Bernhard Shaw',
   ]
   
   const [selected, setSelected] = useState(0);
