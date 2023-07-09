@@ -15,6 +15,7 @@ const App = () => {
     '"More tea, please!" - Uncle Iroh, Avatar the Last Airbender',
     '"Delight is like the butterflies flying around and landing on the flower that is joy." -Ross Gay, This American Life',
     '“A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.” — George Bernhard Shaw',
+    '"Today is gone. Today was fun. Tomorrow is another one." - Dr. Suess'
   ]
   
   const [selected, setSelected] = useState(0);
